@@ -13,4 +13,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0007-reverse-integer](https://github.com/ISudhan/Leetcode/tree/master/0007-reverse-integer) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0461-hamming-distance](https://github.com/ISudhan/Leetcode/tree/master/0461-hamming-distance) |
 <!---LeetCode Topics End-->
