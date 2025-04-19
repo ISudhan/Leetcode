@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/ISudhan/Leetcode/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/ISudhan/Leetcode/tree/master/0287-find-the-duplicate-number) |
 | [1329-minimum-cost-to-move-chips-to-the-same-position](https://github.com/ISudhan/Leetcode/tree/master/1329-minimum-cost-to-move-chips-to-the-same-position) |
+| [1421-find-numbers-with-even-number-of-digits](https://github.com/ISudhan/Leetcode/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1635-number-of-good-pairs](https://github.com/ISudhan/Leetcode/tree/master/1635-number-of-good-pairs) |
 | [1950-sign-of-the-product-of-an-array](https://github.com/ISudhan/Leetcode/tree/master/1950-sign-of-the-product-of-an-array) |
 | [2542-average-value-of-even-numbers-that-are-divisible-by-three](https://github.com/ISudhan/Leetcode/tree/master/2542-average-value-of-even-numbers-that-are-divisible-by-three) |
@@ -25,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0007-reverse-integer](https://github.com/ISudhan/Leetcode/tree/master/0007-reverse-integer) |
 | [0268-missing-number](https://github.com/ISudhan/Leetcode/tree/master/0268-missing-number) |
 | [1329-minimum-cost-to-move-chips-to-the-same-position](https://github.com/ISudhan/Leetcode/tree/master/1329-minimum-cost-to-move-chips-to-the-same-position) |
+| [1421-find-numbers-with-even-number-of-digits](https://github.com/ISudhan/Leetcode/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1635-number-of-good-pairs](https://github.com/ISudhan/Leetcode/tree/master/1635-number-of-good-pairs) |
 | [1950-sign-of-the-product-of-an-array](https://github.com/ISudhan/Leetcode/tree/master/1950-sign-of-the-product-of-an-array) |
 | [2383-add-two-integers](https://github.com/ISudhan/Leetcode/tree/master/2383-add-two-integers) |
