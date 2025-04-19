@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1950-sign-of-the-product-of-an-array](https://github.com/ISudhan/Leetcode/tree/master/1950-sign-of-the-product-of-an-array) |
 | [2542-average-value-of-even-numbers-that-are-divisible-by-three](https://github.com/ISudhan/Leetcode/tree/master/2542-average-value-of-even-numbers-that-are-divisible-by-three) |
 | [2624-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/ISudhan/Leetcode/tree/master/2624-difference-between-element-sum-and-digit-sum-of-an-array) |
+| [3515-find-if-digit-game-can-be-won](https://github.com/ISudhan/Leetcode/tree/master/3515-find-if-digit-game-can-be-won) |
 ## Hash Table
 |  |
 | ------- |
@@ -30,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2542-average-value-of-even-numbers-that-are-divisible-by-three](https://github.com/ISudhan/Leetcode/tree/master/2542-average-value-of-even-numbers-that-are-divisible-by-three) |
 | [2556-convert-the-temperature](https://github.com/ISudhan/Leetcode/tree/master/2556-convert-the-temperature) |
 | [2624-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/ISudhan/Leetcode/tree/master/2624-difference-between-element-sum-and-digit-sum-of-an-array) |
+| [3515-find-if-digit-game-can-be-won](https://github.com/ISudhan/Leetcode/tree/master/3515-find-if-digit-game-can-be-won) |
 ## Bit Manipulation
 |  |
 | ------- |
