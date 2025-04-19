@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/ISudhan/Leetcode/tree/master/0001-two-sum) |
 | [0268-missing-number](https://github.com/ISudhan/Leetcode/tree/master/0268-missing-number) |
 | [1635-number-of-good-pairs](https://github.com/ISudhan/Leetcode/tree/master/1635-number-of-good-pairs) |
+| [2427-first-letter-to-appear-twice](https://github.com/ISudhan/Leetcode/tree/master/2427-first-letter-to-appear-twice) |
 ## Math
 |  |
 | ------- |
@@ -46,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0287-find-the-duplicate-number](https://github.com/ISudhan/Leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0461-hamming-distance](https://github.com/ISudhan/Leetcode/tree/master/0461-hamming-distance) |
 | [0899-binary-gap](https://github.com/ISudhan/Leetcode/tree/master/0899-binary-gap) |
+| [2427-first-letter-to-appear-twice](https://github.com/ISudhan/Leetcode/tree/master/2427-first-letter-to-appear-twice) |
 ## Greedy
 |  |
 | ------- |
@@ -54,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1635-number-of-good-pairs](https://github.com/ISudhan/Leetcode/tree/master/1635-number-of-good-pairs) |
+| [2427-first-letter-to-appear-twice](https://github.com/ISudhan/Leetcode/tree/master/2427-first-letter-to-appear-twice) |
 ## Binary Search
 |  |
 | ------- |
@@ -80,4 +83,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/ISudhan/Leetcode/tree/master/0053-maximum-subarray) |
+## String
+|  |
+| ------- |
+| [2427-first-letter-to-appear-twice](https://github.com/ISudhan/Leetcode/tree/master/2427-first-letter-to-appear-twice) |
 <!---LeetCode Topics End-->
