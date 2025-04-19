@@ -3,7 +3,7 @@ class Solution {
         String maxOddBinary = "";
         int countOfOne = -1;
         for(char ch:s.toCharArray()){
-            if(Integer.parseInt(ch+"")%2 == 1){
+            if(ch == '1'){
                 countOfOne++;
             }
         }
