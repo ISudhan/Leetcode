@@ -22,4 +22,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0461-hamming-distance](https://github.com/ISudhan/Leetcode/tree/master/0461-hamming-distance) |
+| [0899-binary-gap](https://github.com/ISudhan/Leetcode/tree/master/0899-binary-gap) |
 <!---LeetCode Topics End-->
