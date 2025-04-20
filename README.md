@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2556-convert-the-temperature](https://github.com/ISudhan/Leetcode/tree/master/2556-convert-the-temperature) |
 | [2619-categorize-box-according-to-criteria](https://github.com/ISudhan/Leetcode/tree/master/2619-categorize-box-according-to-criteria) |
 | [2624-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/ISudhan/Leetcode/tree/master/2624-difference-between-element-sum-and-digit-sum-of-an-array) |
+| [2630-alternating-digit-sum](https://github.com/ISudhan/Leetcode/tree/master/2630-alternating-digit-sum) |
 | [3055-maximum-odd-binary-number](https://github.com/ISudhan/Leetcode/tree/master/3055-maximum-odd-binary-number) |
 | [3321-type-of-triangle](https://github.com/ISudhan/Leetcode/tree/master/3321-type-of-triangle) |
 | [3511-find-the-winning-player-in-coin-game](https://github.com/ISudhan/Leetcode/tree/master/3511-find-the-winning-player-in-coin-game) |
