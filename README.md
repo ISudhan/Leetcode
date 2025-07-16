@@ -60,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2624-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/ISudhan/Leetcode/tree/master/2624-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [2630-alternating-digit-sum](https://github.com/ISudhan/Leetcode/tree/master/2630-alternating-digit-sum) |
 | [3055-maximum-odd-binary-number](https://github.com/ISudhan/Leetcode/tree/master/3055-maximum-odd-binary-number) |
+| [3172-divisible-and-non-divisible-sums-difference](https://github.com/ISudhan/Leetcode/tree/master/3172-divisible-and-non-divisible-sums-difference) |
 | [3321-type-of-triangle](https://github.com/ISudhan/Leetcode/tree/master/3321-type-of-triangle) |
 | [3511-find-the-winning-player-in-coin-game](https://github.com/ISudhan/Leetcode/tree/master/3511-find-the-winning-player-in-coin-game) |
 | [3515-find-if-digit-game-can-be-won](https://github.com/ISudhan/Leetcode/tree/master/3515-find-if-digit-game-can-be-won) |
