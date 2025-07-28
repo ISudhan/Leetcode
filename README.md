@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1231-replace-elements-with-greatest-element-on-right-side](https://github.com/ISudhan/Leetcode/tree/master/1231-replace-elements-with-greatest-element-on-right-side) |
 | [1329-minimum-cost-to-move-chips-to-the-same-position](https://github.com/ISudhan/Leetcode/tree/master/1329-minimum-cost-to-move-chips-to-the-same-position) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/ISudhan/Leetcode/tree/master/1421-find-numbers-with-even-number-of-digits) |
+| [1505-create-target-array-in-the-given-order](https://github.com/ISudhan/Leetcode/tree/master/1505-create-target-array-in-the-given-order) |
 | [1603-running-sum-of-1d-array](https://github.com/ISudhan/Leetcode/tree/master/1603-running-sum-of-1d-array) |
 | [1635-number-of-good-pairs](https://github.com/ISudhan/Leetcode/tree/master/1635-number-of-good-pairs) |
 | [1755-defuse-the-bomb](https://github.com/ISudhan/Leetcode/tree/master/1755-defuse-the-bomb) |
@@ -120,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1195-distribute-candies-to-people](https://github.com/ISudhan/Leetcode/tree/master/1195-distribute-candies-to-people) |
+| [1505-create-target-array-in-the-given-order](https://github.com/ISudhan/Leetcode/tree/master/1505-create-target-array-in-the-given-order) |
 | [3511-find-the-winning-player-in-coin-game](https://github.com/ISudhan/Leetcode/tree/master/3511-find-the-winning-player-in-coin-game) |
 ## Divide and Conquer
 |  |
