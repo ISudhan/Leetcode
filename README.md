@@ -59,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1195-distribute-candies-to-people](https://github.com/ISudhan/Leetcode/tree/master/1195-distribute-candies-to-people) |
 | [1329-minimum-cost-to-move-chips-to-the-same-position](https://github.com/ISudhan/Leetcode/tree/master/1329-minimum-cost-to-move-chips-to-the-same-position) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/ISudhan/Leetcode/tree/master/1421-find-numbers-with-even-number-of-digits) |
+| [1444-number-of-steps-to-reduce-a-number-to-zero](https://github.com/ISudhan/Leetcode/tree/master/1444-number-of-steps-to-reduce-a-number-to-zero) |
 | [1635-number-of-good-pairs](https://github.com/ISudhan/Leetcode/tree/master/1635-number-of-good-pairs) |
 | [1920-determine-color-of-a-chessboard-square](https://github.com/ISudhan/Leetcode/tree/master/1920-determine-color-of-a-chessboard-square) |
 | [1950-sign-of-the-product-of-an-array](https://github.com/ISudhan/Leetcode/tree/master/1950-sign-of-the-product-of-an-array) |
@@ -84,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0389-find-the-difference](https://github.com/ISudhan/Leetcode/tree/master/0389-find-the-difference) |
 | [0461-hamming-distance](https://github.com/ISudhan/Leetcode/tree/master/0461-hamming-distance) |
 | [0899-binary-gap](https://github.com/ISudhan/Leetcode/tree/master/0899-binary-gap) |
+| [1444-number-of-steps-to-reduce-a-number-to-zero](https://github.com/ISudhan/Leetcode/tree/master/1444-number-of-steps-to-reduce-a-number-to-zero) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/ISudhan/Leetcode/tree/master/1786-count-the-number-of-consistent-strings) |
 | [2427-first-letter-to-appear-twice](https://github.com/ISudhan/Leetcode/tree/master/2427-first-letter-to-appear-twice) |
 ## Greedy
