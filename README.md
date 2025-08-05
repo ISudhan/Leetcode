@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1786-count-the-number-of-consistent-strings](https://github.com/ISudhan/Leetcode/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1791-richest-customer-wealth](https://github.com/ISudhan/Leetcode/tree/master/1791-richest-customer-wealth) |
 | [1833-find-the-highest-altitude](https://github.com/ISudhan/Leetcode/tree/master/1833-find-the-highest-altitude) |
+| [1848-sum-of-unique-elements](https://github.com/ISudhan/Leetcode/tree/master/1848-sum-of-unique-elements) |
 | [1950-sign-of-the-product-of-an-array](https://github.com/ISudhan/Leetcode/tree/master/1950-sign-of-the-product-of-an-array) |
 | [2048-build-array-from-permutation](https://github.com/ISudhan/Leetcode/tree/master/2048-build-array-from-permutation) |
 | [2129-number-of-pairs-of-interchangeable-rectangles](https://github.com/ISudhan/Leetcode/tree/master/2129-number-of-pairs-of-interchangeable-rectangles) |
@@ -58,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/ISudhan/Leetcode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1635-number-of-good-pairs](https://github.com/ISudhan/Leetcode/tree/master/1635-number-of-good-pairs) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/ISudhan/Leetcode/tree/master/1786-count-the-number-of-consistent-strings) |
+| [1848-sum-of-unique-elements](https://github.com/ISudhan/Leetcode/tree/master/1848-sum-of-unique-elements) |
 | [1960-check-if-the-sentence-is-pangram](https://github.com/ISudhan/Leetcode/tree/master/1960-check-if-the-sentence-is-pangram) |
 | [2129-number-of-pairs-of-interchangeable-rectangles](https://github.com/ISudhan/Leetcode/tree/master/2129-number-of-pairs-of-interchangeable-rectangles) |
 | [2427-first-letter-to-appear-twice](https://github.com/ISudhan/Leetcode/tree/master/2427-first-letter-to-appear-twice) |
@@ -112,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0594-longest-harmonious-subsequence](https://github.com/ISudhan/Leetcode/tree/master/0594-longest-harmonious-subsequence) |
 | [1635-number-of-good-pairs](https://github.com/ISudhan/Leetcode/tree/master/1635-number-of-good-pairs) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/ISudhan/Leetcode/tree/master/1786-count-the-number-of-consistent-strings) |
+| [1848-sum-of-unique-elements](https://github.com/ISudhan/Leetcode/tree/master/1848-sum-of-unique-elements) |
 | [2129-number-of-pairs-of-interchangeable-rectangles](https://github.com/ISudhan/Leetcode/tree/master/2129-number-of-pairs-of-interchangeable-rectangles) |
 | [2427-first-letter-to-appear-twice](https://github.com/ISudhan/Leetcode/tree/master/2427-first-letter-to-appear-twice) |
 ## Binary Search
