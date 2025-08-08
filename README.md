@@ -197,6 +197,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0822-unique-morse-code-words](https://github.com/ISudhan/Leetcode/tree/master/0822-unique-morse-code-words) |
 | [1205-defanging-an-ip-address](https://github.com/ISudhan/Leetcode/tree/master/1205-defanging-an-ip-address) |
 | [1651-shuffle-string](https://github.com/ISudhan/Leetcode/tree/master/1651-shuffle-string) |
+| [1698-replace-all-s-to-avoid-consecutive-repeating-characters](https://github.com/ISudhan/Leetcode/tree/master/1698-replace-all-s-to-avoid-consecutive-repeating-characters) |
 | [1781-check-if-two-string-arrays-are-equivalent](https://github.com/ISudhan/Leetcode/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/ISudhan/Leetcode/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1797-goal-parser-interpretation](https://github.com/ISudhan/Leetcode/tree/master/1797-goal-parser-interpretation) |
