@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1950-sign-of-the-product-of-an-array](https://github.com/ISudhan/Leetcode/tree/master/1950-sign-of-the-product-of-an-array) |
 | [2048-build-array-from-permutation](https://github.com/ISudhan/Leetcode/tree/master/2048-build-array-from-permutation) |
 | [2129-number-of-pairs-of-interchangeable-rectangles](https://github.com/ISudhan/Leetcode/tree/master/2129-number-of-pairs-of-interchangeable-rectangles) |
+| [2274-keep-multiplying-found-values-by-two](https://github.com/ISudhan/Leetcode/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2542-average-value-of-even-numbers-that-are-divisible-by-three](https://github.com/ISudhan/Leetcode/tree/master/2542-average-value-of-even-numbers-that-are-divisible-by-three) |
 | [2624-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/ISudhan/Leetcode/tree/master/2624-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [3321-type-of-triangle](https://github.com/ISudhan/Leetcode/tree/master/3321-type-of-triangle) |
@@ -67,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1848-sum-of-unique-elements](https://github.com/ISudhan/Leetcode/tree/master/1848-sum-of-unique-elements) |
 | [1960-check-if-the-sentence-is-pangram](https://github.com/ISudhan/Leetcode/tree/master/1960-check-if-the-sentence-is-pangram) |
 | [2129-number-of-pairs-of-interchangeable-rectangles](https://github.com/ISudhan/Leetcode/tree/master/2129-number-of-pairs-of-interchangeable-rectangles) |
+| [2274-keep-multiplying-found-values-by-two](https://github.com/ISudhan/Leetcode/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2427-first-letter-to-appear-twice](https://github.com/ISudhan/Leetcode/tree/master/2427-first-letter-to-appear-twice) |
 ## Math
 |  |
@@ -143,6 +145,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0958-sort-array-by-parity-ii](https://github.com/ISudhan/Leetcode/tree/master/0958-sort-array-by-parity-ii) |
 | [1019-squares-of-a-sorted-array](https://github.com/ISudhan/Leetcode/tree/master/1019-squares-of-a-sorted-array) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/ISudhan/Leetcode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
+| [2274-keep-multiplying-found-values-by-two](https://github.com/ISudhan/Leetcode/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [3321-type-of-triangle](https://github.com/ISudhan/Leetcode/tree/master/3321-type-of-triangle) |
 ## Two Pointers
 |  |
@@ -161,6 +164,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1195-distribute-candies-to-people](https://github.com/ISudhan/Leetcode/tree/master/1195-distribute-candies-to-people) |
 | [1505-create-target-array-in-the-given-order](https://github.com/ISudhan/Leetcode/tree/master/1505-create-target-array-in-the-given-order) |
 | [2048-build-array-from-permutation](https://github.com/ISudhan/Leetcode/tree/master/2048-build-array-from-permutation) |
+| [2274-keep-multiplying-found-values-by-two](https://github.com/ISudhan/Leetcode/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [3511-find-the-winning-player-in-coin-game](https://github.com/ISudhan/Leetcode/tree/master/3511-find-the-winning-player-in-coin-game) |
 ## Divide and Conquer
 |  |
