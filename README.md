@@ -84,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0007-reverse-integer](https://github.com/ISudhan/Leetcode/tree/master/0007-reverse-integer) |
+| [0231-power-of-two](https://github.com/ISudhan/Leetcode/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/ISudhan/Leetcode/tree/master/0268-missing-number) |
 | [1013-fibonacci-number](https://github.com/ISudhan/Leetcode/tree/master/1013-fibonacci-number) |
 | [1195-distribute-candies-to-people](https://github.com/ISudhan/Leetcode/tree/master/1195-distribute-candies-to-people) |
@@ -112,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0136-single-number](https://github.com/ISudhan/Leetcode/tree/master/0136-single-number) |
+| [0231-power-of-two](https://github.com/ISudhan/Leetcode/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/ISudhan/Leetcode/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/ISudhan/Leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0389-find-the-difference](https://github.com/ISudhan/Leetcode/tree/master/0389-find-the-difference) |
@@ -249,6 +251,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Recursion
 |  |
 | ------- |
+| [0231-power-of-two](https://github.com/ISudhan/Leetcode/tree/master/0231-power-of-two) |
 | [1013-fibonacci-number](https://github.com/ISudhan/Leetcode/tree/master/1013-fibonacci-number) |
 ## Memoization
 |  |
