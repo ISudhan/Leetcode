@@ -217,6 +217,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2219-maximum-number-of-words-found-in-sentences](https://github.com/ISudhan/Leetcode/tree/master/2219-maximum-number-of-words-found-in-sentences) |
 | [2427-first-letter-to-appear-twice](https://github.com/ISudhan/Leetcode/tree/master/2427-first-letter-to-appear-twice) |
 | [3055-maximum-odd-binary-number](https://github.com/ISudhan/Leetcode/tree/master/3055-maximum-odd-binary-number) |
+| [3379-score-of-a-string](https://github.com/ISudhan/Leetcode/tree/master/3379-score-of-a-string) |
 | [3553-check-if-two-chessboard-squares-have-the-same-color](https://github.com/ISudhan/Leetcode/tree/master/3553-check-if-two-chessboard-squares-have-the-same-color) |
 ## Game Theory
 |  |
