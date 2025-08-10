@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1791-richest-customer-wealth](https://github.com/ISudhan/Leetcode/tree/master/1791-richest-customer-wealth) |
 | [1833-find-the-highest-altitude](https://github.com/ISudhan/Leetcode/tree/master/1833-find-the-highest-altitude) |
 | [1848-sum-of-unique-elements](https://github.com/ISudhan/Leetcode/tree/master/1848-sum-of-unique-elements) |
+| [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/ISudhan/Leetcode/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [1950-sign-of-the-product-of-an-array](https://github.com/ISudhan/Leetcode/tree/master/1950-sign-of-the-product-of-an-array) |
 | [2048-build-array-from-permutation](https://github.com/ISudhan/Leetcode/tree/master/2048-build-array-from-permutation) |
 | [2058-concatenation-of-array](https://github.com/ISudhan/Leetcode/tree/master/2058-concatenation-of-array) |
@@ -217,6 +218,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1781-check-if-two-string-arrays-are-equivalent](https://github.com/ISudhan/Leetcode/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/ISudhan/Leetcode/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1797-goal-parser-interpretation](https://github.com/ISudhan/Leetcode/tree/master/1797-goal-parser-interpretation) |
+| [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/ISudhan/Leetcode/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [1920-determine-color-of-a-chessboard-square](https://github.com/ISudhan/Leetcode/tree/master/1920-determine-color-of-a-chessboard-square) |
 | [1960-check-if-the-sentence-is-pangram](https://github.com/ISudhan/Leetcode/tree/master/1960-check-if-the-sentence-is-pangram) |
 | [2219-maximum-number-of-words-found-in-sentences](https://github.com/ISudhan/Leetcode/tree/master/2219-maximum-number-of-words-found-in-sentences) |
@@ -247,6 +249,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1603-running-sum-of-1d-array](https://github.com/ISudhan/Leetcode/tree/master/1603-running-sum-of-1d-array) |
 | [1693-sum-of-all-odd-length-subarrays](https://github.com/ISudhan/Leetcode/tree/master/1693-sum-of-all-odd-length-subarrays) |
 | [1833-find-the-highest-altitude](https://github.com/ISudhan/Leetcode/tree/master/1833-find-the-highest-altitude) |
+| [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/ISudhan/Leetcode/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 ## Number Theory
 |  |
 | ------- |
