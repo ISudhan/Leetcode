@@ -55,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2274-keep-multiplying-found-values-by-two](https://github.com/ISudhan/Leetcode/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2542-average-value-of-even-numbers-that-are-divisible-by-three](https://github.com/ISudhan/Leetcode/tree/master/2542-average-value-of-even-numbers-that-are-divisible-by-three) |
 | [2624-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/ISudhan/Leetcode/tree/master/2624-difference-between-element-sum-and-digit-sum-of-an-array) |
+| [3194-find-words-containing-character](https://github.com/ISudhan/Leetcode/tree/master/3194-find-words-containing-character) |
 | [3321-type-of-triangle](https://github.com/ISudhan/Leetcode/tree/master/3321-type-of-triangle) |
 | [3515-find-if-digit-game-can-be-won](https://github.com/ISudhan/Leetcode/tree/master/3515-find-if-digit-game-can-be-won) |
 ## Hash Table
@@ -227,6 +228,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2219-maximum-number-of-words-found-in-sentences](https://github.com/ISudhan/Leetcode/tree/master/2219-maximum-number-of-words-found-in-sentences) |
 | [2427-first-letter-to-appear-twice](https://github.com/ISudhan/Leetcode/tree/master/2427-first-letter-to-appear-twice) |
 | [3055-maximum-odd-binary-number](https://github.com/ISudhan/Leetcode/tree/master/3055-maximum-odd-binary-number) |
+| [3194-find-words-containing-character](https://github.com/ISudhan/Leetcode/tree/master/3194-find-words-containing-character) |
 | [3379-score-of-a-string](https://github.com/ISudhan/Leetcode/tree/master/3379-score-of-a-string) |
 | [3553-check-if-two-chessboard-squares-have-the-same-color](https://github.com/ISudhan/Leetcode/tree/master/3553-check-if-two-chessboard-squares-have-the-same-color) |
 ## Game Theory
