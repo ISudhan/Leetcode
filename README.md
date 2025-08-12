@@ -199,6 +199,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1019-squares-of-a-sorted-array](https://github.com/ISudhan/Leetcode/tree/master/1019-squares-of-a-sorted-array) |
 | [1168-duplicate-zeros](https://github.com/ISudhan/Leetcode/tree/master/1168-duplicate-zeros) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/ISudhan/Leetcode/tree/master/1468-check-if-n-and-its-double-exist) |
+| [2128-reverse-prefix-of-word](https://github.com/ISudhan/Leetcode/tree/master/2128-reverse-prefix-of-word) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/ISudhan/Leetcode/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/ISudhan/Leetcode/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
 ## Simulation
@@ -244,6 +245,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/ISudhan/Leetcode/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [1920-determine-color-of-a-chessboard-square](https://github.com/ISudhan/Leetcode/tree/master/1920-determine-color-of-a-chessboard-square) |
 | [1960-check-if-the-sentence-is-pangram](https://github.com/ISudhan/Leetcode/tree/master/1960-check-if-the-sentence-is-pangram) |
+| [2128-reverse-prefix-of-word](https://github.com/ISudhan/Leetcode/tree/master/2128-reverse-prefix-of-word) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/ISudhan/Leetcode/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2219-maximum-number-of-words-found-in-sentences](https://github.com/ISudhan/Leetcode/tree/master/2219-maximum-number-of-words-found-in-sentences) |
 | [2427-first-letter-to-appear-twice](https://github.com/ISudhan/Leetcode/tree/master/2427-first-letter-to-appear-twice) |
@@ -313,4 +315,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1137-height-checker](https://github.com/ISudhan/Leetcode/tree/master/1137-height-checker) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/ISudhan/Leetcode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
+## Stack
+|  |
+| ------- |
+| [2128-reverse-prefix-of-word](https://github.com/ISudhan/Leetcode/tree/master/2128-reverse-prefix-of-word) |
 <!---LeetCode Topics End-->
