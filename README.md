@@ -213,6 +213,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2265-partition-array-according-to-given-pivot](https://github.com/ISudhan/Leetcode/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/ISudhan/Leetcode/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [3511-find-the-winning-player-in-coin-game](https://github.com/ISudhan/Leetcode/tree/master/3511-find-the-winning-player-in-coin-game) |
+| [3811-reverse-degree-of-a-string](https://github.com/ISudhan/Leetcode/tree/master/3811-reverse-degree-of-a-string) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -253,6 +254,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3194-find-words-containing-character](https://github.com/ISudhan/Leetcode/tree/master/3194-find-words-containing-character) |
 | [3379-score-of-a-string](https://github.com/ISudhan/Leetcode/tree/master/3379-score-of-a-string) |
 | [3553-check-if-two-chessboard-squares-have-the-same-color](https://github.com/ISudhan/Leetcode/tree/master/3553-check-if-two-chessboard-squares-have-the-same-color) |
+| [3811-reverse-degree-of-a-string](https://github.com/ISudhan/Leetcode/tree/master/3811-reverse-degree-of-a-string) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/ISudhan/Leetcode/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Game Theory
 |  |
