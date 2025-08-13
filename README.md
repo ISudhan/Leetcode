@@ -103,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0007-reverse-integer](https://github.com/ISudhan/Leetcode/tree/master/0007-reverse-integer) |
+| [0043-multiply-strings](https://github.com/ISudhan/Leetcode/tree/master/0043-multiply-strings) |
 | [0231-power-of-two](https://github.com/ISudhan/Leetcode/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/ISudhan/Leetcode/tree/master/0268-missing-number) |
 | [1013-fibonacci-number](https://github.com/ISudhan/Leetcode/tree/master/1013-fibonacci-number) |
@@ -218,6 +219,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0043-multiply-strings](https://github.com/ISudhan/Leetcode/tree/master/0043-multiply-strings) |
 | [1195-distribute-candies-to-people](https://github.com/ISudhan/Leetcode/tree/master/1195-distribute-candies-to-people) |
 | [1505-create-target-array-in-the-given-order](https://github.com/ISudhan/Leetcode/tree/master/1505-create-target-array-in-the-given-order) |
 | [2048-build-array-from-permutation](https://github.com/ISudhan/Leetcode/tree/master/2048-build-array-from-permutation) |
@@ -243,6 +245,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/ISudhan/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0043-multiply-strings](https://github.com/ISudhan/Leetcode/tree/master/0043-multiply-strings) |
 | [0125-valid-palindrome](https://github.com/ISudhan/Leetcode/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/ISudhan/Leetcode/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/ISudhan/Leetcode/tree/master/0344-reverse-string) |
