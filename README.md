@@ -213,6 +213,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/ISudhan/Leetcode/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/ISudhan/Leetcode/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/ISudhan/Leetcode/tree/master/2274-keep-multiplying-found-values-by-two) |
+| [2470-removing-stars-from-a-string](https://github.com/ISudhan/Leetcode/tree/master/2470-removing-stars-from-a-string) |
 | [3511-find-the-winning-player-in-coin-game](https://github.com/ISudhan/Leetcode/tree/master/3511-find-the-winning-player-in-coin-game) |
 | [3811-reverse-degree-of-a-string](https://github.com/ISudhan/Leetcode/tree/master/3811-reverse-degree-of-a-string) |
 ## Divide and Conquer
@@ -252,6 +253,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/ISudhan/Leetcode/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2219-maximum-number-of-words-found-in-sentences](https://github.com/ISudhan/Leetcode/tree/master/2219-maximum-number-of-words-found-in-sentences) |
 | [2427-first-letter-to-appear-twice](https://github.com/ISudhan/Leetcode/tree/master/2427-first-letter-to-appear-twice) |
+| [2470-removing-stars-from-a-string](https://github.com/ISudhan/Leetcode/tree/master/2470-removing-stars-from-a-string) |
 | [3055-maximum-odd-binary-number](https://github.com/ISudhan/Leetcode/tree/master/3055-maximum-odd-binary-number) |
 | [3194-find-words-containing-character](https://github.com/ISudhan/Leetcode/tree/master/3194-find-words-containing-character) |
 | [3379-score-of-a-string](https://github.com/ISudhan/Leetcode/tree/master/3379-score-of-a-string) |
@@ -323,4 +325,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2128-reverse-prefix-of-word](https://github.com/ISudhan/Leetcode/tree/master/2128-reverse-prefix-of-word) |
+| [2470-removing-stars-from-a-string](https://github.com/ISudhan/Leetcode/tree/master/2470-removing-stars-from-a-string) |
 <!---LeetCode Topics End-->
