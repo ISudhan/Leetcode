@@ -122,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1950-sign-of-the-product-of-an-array](https://github.com/ISudhan/Leetcode/tree/master/1950-sign-of-the-product-of-an-array) |
 | [2129-number-of-pairs-of-interchangeable-rectangles](https://github.com/ISudhan/Leetcode/tree/master/2129-number-of-pairs-of-interchangeable-rectangles) |
 | [2383-add-two-integers](https://github.com/ISudhan/Leetcode/tree/master/2383-add-two-integers) |
+| [2481-strictly-palindromic-number](https://github.com/ISudhan/Leetcode/tree/master/2481-strictly-palindromic-number) |
 | [2491-smallest-even-multiple](https://github.com/ISudhan/Leetcode/tree/master/2491-smallest-even-multiple) |
 | [2542-average-value-of-even-numbers-that-are-divisible-by-three](https://github.com/ISudhan/Leetcode/tree/master/2542-average-value-of-even-numbers-that-are-divisible-by-three) |
 | [2556-convert-the-temperature](https://github.com/ISudhan/Leetcode/tree/master/2556-convert-the-temperature) |
@@ -222,6 +223,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1468-check-if-n-and-its-double-exist](https://github.com/ISudhan/Leetcode/tree/master/1468-check-if-n-and-its-double-exist) |
 | [2128-reverse-prefix-of-word](https://github.com/ISudhan/Leetcode/tree/master/2128-reverse-prefix-of-word) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/ISudhan/Leetcode/tree/master/2265-partition-array-according-to-given-pivot) |
+| [2481-strictly-palindromic-number](https://github.com/ISudhan/Leetcode/tree/master/2481-strictly-palindromic-number) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/ISudhan/Leetcode/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
 ## Simulation
 |  |
@@ -367,4 +369,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0164-maximum-gap](https://github.com/ISudhan/Leetcode/tree/master/0164-maximum-gap) |
+## Brainteaser
+|  |
+| ------- |
+| [2481-strictly-palindromic-number](https://github.com/ISudhan/Leetcode/tree/master/2481-strictly-palindromic-number) |
 <!---LeetCode Topics End-->
