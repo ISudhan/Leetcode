@@ -66,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2542-average-value-of-even-numbers-that-are-divisible-by-three](https://github.com/ISudhan/Leetcode/tree/master/2542-average-value-of-even-numbers-that-are-divisible-by-three) |
 | [2624-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/ISudhan/Leetcode/tree/master/2624-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [2714-left-and-right-sum-differences](https://github.com/ISudhan/Leetcode/tree/master/2714-left-and-right-sum-differences) |
+| [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/ISudhan/Leetcode/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 | [2876-number-of-employees-who-met-the-target](https://github.com/ISudhan/Leetcode/tree/master/2876-number-of-employees-who-met-the-target) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/ISudhan/Leetcode/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
 | [3194-find-words-containing-character](https://github.com/ISudhan/Leetcode/tree/master/3194-find-words-containing-character) |
@@ -101,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2129-number-of-pairs-of-interchangeable-rectangles](https://github.com/ISudhan/Leetcode/tree/master/2129-number-of-pairs-of-interchangeable-rectangles) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/ISudhan/Leetcode/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2427-first-letter-to-appear-twice](https://github.com/ISudhan/Leetcode/tree/master/2427-first-letter-to-appear-twice) |
+| [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/ISudhan/Leetcode/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/ISudhan/Leetcode/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/ISudhan/Leetcode/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Math
@@ -151,6 +153,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1444-number-of-steps-to-reduce-a-number-to-zero](https://github.com/ISudhan/Leetcode/tree/master/1444-number-of-steps-to-reduce-a-number-to-zero) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/ISudhan/Leetcode/tree/master/1786-count-the-number-of-consistent-strings) |
 | [2427-first-letter-to-appear-twice](https://github.com/ISudhan/Leetcode/tree/master/2427-first-letter-to-appear-twice) |
+| [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/ISudhan/Leetcode/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/ISudhan/Leetcode/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 ## Greedy
 |  |
