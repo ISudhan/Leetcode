@@ -8,7 +8,11 @@ class Solution {
             i++;
             j--;
         }
-        Arrays.sort(avg);
-        return avg[0];
+        double min = avg[0];
+        for(double d:avg){
+            if(d<min)
+            min = d;
+        }
+        return min;
     }
 }
