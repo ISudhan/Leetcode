@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/ISudhan/Leetcode/tree/master/0001-two-sum) |
 | [0004-median-of-two-sorted-arrays](https://github.com/ISudhan/Leetcode/tree/master/0004-median-of-two-sorted-arrays) |
+| [0027-remove-element](https://github.com/ISudhan/Leetcode/tree/master/0027-remove-element) |
 | [0033-search-in-rotated-sorted-array](https://github.com/ISudhan/Leetcode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/ISudhan/Leetcode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0041-first-missing-positive](https://github.com/ISudhan/Leetcode/tree/master/0041-first-missing-positive) |
@@ -223,6 +224,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0027-remove-element](https://github.com/ISudhan/Leetcode/tree/master/0027-remove-element) |
 | [0075-sort-colors](https://github.com/ISudhan/Leetcode/tree/master/0075-sort-colors) |
 | [0125-valid-palindrome](https://github.com/ISudhan/Leetcode/tree/master/0125-valid-palindrome) |
 | [0189-rotate-array](https://github.com/ISudhan/Leetcode/tree/master/0189-rotate-array) |
