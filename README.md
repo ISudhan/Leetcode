@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/ISudhan/Leetcode/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0164-maximum-gap](https://github.com/ISudhan/Leetcode/tree/master/0164-maximum-gap) |
 | [0169-majority-element](https://github.com/ISudhan/Leetcode/tree/master/0169-majority-element) |
+| [0189-rotate-array](https://github.com/ISudhan/Leetcode/tree/master/0189-rotate-array) |
 | [0209-minimum-size-subarray-sum](https://github.com/ISudhan/Leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0215-kth-largest-element-in-an-array](https://github.com/ISudhan/Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0219-contains-duplicate-ii](https://github.com/ISudhan/Leetcode/tree/master/0219-contains-duplicate-ii) |
@@ -117,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0009-palindrome-number](https://github.com/ISudhan/Leetcode/tree/master/0009-palindrome-number) |
 | [0043-multiply-strings](https://github.com/ISudhan/Leetcode/tree/master/0043-multiply-strings) |
 | [0070-climbing-stairs](https://github.com/ISudhan/Leetcode/tree/master/0070-climbing-stairs) |
+| [0189-rotate-array](https://github.com/ISudhan/Leetcode/tree/master/0189-rotate-array) |
 | [0231-power-of-two](https://github.com/ISudhan/Leetcode/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/ISudhan/Leetcode/tree/master/0268-missing-number) |
 | [1013-fibonacci-number](https://github.com/ISudhan/Leetcode/tree/master/1013-fibonacci-number) |
@@ -223,6 +225,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0075-sort-colors](https://github.com/ISudhan/Leetcode/tree/master/0075-sort-colors) |
 | [0125-valid-palindrome](https://github.com/ISudhan/Leetcode/tree/master/0125-valid-palindrome) |
+| [0189-rotate-array](https://github.com/ISudhan/Leetcode/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/ISudhan/Leetcode/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/ISudhan/Leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0344-reverse-string](https://github.com/ISudhan/Leetcode/tree/master/0344-reverse-string) |
