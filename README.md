@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0643-maximum-average-subarray-i](https://github.com/ISudhan/Leetcode/tree/master/0643-maximum-average-subarray-i) |
 | [0822-unique-morse-code-words](https://github.com/ISudhan/Leetcode/tree/master/0822-unique-morse-code-words) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/ISudhan/Leetcode/tree/master/0882-peak-index-in-a-mountain-array) |
+| [0917-boats-to-save-people](https://github.com/ISudhan/Leetcode/tree/master/0917-boats-to-save-people) |
 | [0941-sort-array-by-parity](https://github.com/ISudhan/Leetcode/tree/master/0941-sort-array-by-parity) |
 | [0958-sort-array-by-parity-ii](https://github.com/ISudhan/Leetcode/tree/master/0958-sort-array-by-parity-ii) |
 | [1001-n-repeated-element-in-size-2n-array](https://github.com/ISudhan/Leetcode/tree/master/1001-n-repeated-element-in-size-2n-array) |
@@ -172,6 +173,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0917-boats-to-save-people](https://github.com/ISudhan/Leetcode/tree/master/0917-boats-to-save-people) |
 | [1329-minimum-cost-to-move-chips-to-the-same-position](https://github.com/ISudhan/Leetcode/tree/master/1329-minimum-cost-to-move-chips-to-the-same-position) |
 | [3055-maximum-odd-binary-number](https://github.com/ISudhan/Leetcode/tree/master/3055-maximum-odd-binary-number) |
 ## Counting
@@ -216,6 +218,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/ISudhan/Leetcode/tree/master/0268-missing-number) |
 | [0389-find-the-difference](https://github.com/ISudhan/Leetcode/tree/master/0389-find-the-difference) |
 | [0594-longest-harmonious-subsequence](https://github.com/ISudhan/Leetcode/tree/master/0594-longest-harmonious-subsequence) |
+| [0917-boats-to-save-people](https://github.com/ISudhan/Leetcode/tree/master/0917-boats-to-save-people) |
 | [0941-sort-array-by-parity](https://github.com/ISudhan/Leetcode/tree/master/0941-sort-array-by-parity) |
 | [0958-sort-array-by-parity-ii](https://github.com/ISudhan/Leetcode/tree/master/0958-sort-array-by-parity-ii) |
 | [1019-squares-of-a-sorted-array](https://github.com/ISudhan/Leetcode/tree/master/1019-squares-of-a-sorted-array) |
@@ -241,6 +244,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0287-find-the-duplicate-number](https://github.com/ISudhan/Leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0344-reverse-string](https://github.com/ISudhan/Leetcode/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/ISudhan/Leetcode/tree/master/0345-reverse-vowels-of-a-string) |
+| [0917-boats-to-save-people](https://github.com/ISudhan/Leetcode/tree/master/0917-boats-to-save-people) |
 | [0941-sort-array-by-parity](https://github.com/ISudhan/Leetcode/tree/master/0941-sort-array-by-parity) |
 | [0958-sort-array-by-parity-ii](https://github.com/ISudhan/Leetcode/tree/master/0958-sort-array-by-parity-ii) |
 | [1019-squares-of-a-sorted-array](https://github.com/ISudhan/Leetcode/tree/master/1019-squares-of-a-sorted-array) |
