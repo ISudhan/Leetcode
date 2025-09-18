@@ -3,11 +3,7 @@ class Solution {
         int count = 0,l=0,r=people.length-1;
         Arrays.sort(people);
         while(l<=r){
-            if(l==r){
-                count++;
-                l++;
-            }
-            else if(people[l]+people[r]<=limit){
+            if(people[l]+people[r]<=limit){
                 count++;
                 r--;
                 l++;
