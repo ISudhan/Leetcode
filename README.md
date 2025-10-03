@@ -244,6 +244,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0287-find-the-duplicate-number](https://github.com/ISudhan/Leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0344-reverse-string](https://github.com/ISudhan/Leetcode/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/ISudhan/Leetcode/tree/master/0345-reverse-vowels-of-a-string) |
+| [0443-string-compression](https://github.com/ISudhan/Leetcode/tree/master/0443-string-compression) |
 | [0917-boats-to-save-people](https://github.com/ISudhan/Leetcode/tree/master/0917-boats-to-save-people) |
 | [0941-sort-array-by-parity](https://github.com/ISudhan/Leetcode/tree/master/0941-sort-array-by-parity) |
 | [0958-sort-array-by-parity-ii](https://github.com/ISudhan/Leetcode/tree/master/0958-sort-array-by-parity-ii) |
@@ -298,6 +299,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0383-ransom-note](https://github.com/ISudhan/Leetcode/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/ISudhan/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/ISudhan/Leetcode/tree/master/0389-find-the-difference) |
+| [0443-string-compression](https://github.com/ISudhan/Leetcode/tree/master/0443-string-compression) |
 | [0742-to-lower-case](https://github.com/ISudhan/Leetcode/tree/master/0742-to-lower-case) |
 | [0782-jewels-and-stones](https://github.com/ISudhan/Leetcode/tree/master/0782-jewels-and-stones) |
 | [0822-unique-morse-code-words](https://github.com/ISudhan/Leetcode/tree/master/0822-unique-morse-code-words) |
