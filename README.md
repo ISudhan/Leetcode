@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/ISudhan/Leetcode/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/ISudhan/Leetcode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1496-lucky-numbers-in-a-matrix](https://github.com/ISudhan/Leetcode/tree/master/1496-lucky-numbers-in-a-matrix) |
+| [1502-can-make-arithmetic-progression-from-sequence](https://github.com/ISudhan/Leetcode/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
 | [1505-create-target-array-in-the-given-order](https://github.com/ISudhan/Leetcode/tree/master/1505-create-target-array-in-the-given-order) |
 | [1560-number-of-students-doing-homework-at-a-given-time](https://github.com/ISudhan/Leetcode/tree/master/1560-number-of-students-doing-homework-at-a-given-time) |
 | [1580-shuffle-the-array](https://github.com/ISudhan/Leetcode/tree/master/1580-shuffle-the-array) |
@@ -237,6 +238,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1137-height-checker](https://github.com/ISudhan/Leetcode/tree/master/1137-height-checker) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/ISudhan/Leetcode/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/ISudhan/Leetcode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
+| [1502-can-make-arithmetic-progression-from-sequence](https://github.com/ISudhan/Leetcode/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/ISudhan/Leetcode/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2631-sort-the-students-by-their-kth-score](https://github.com/ISudhan/Leetcode/tree/master/2631-sort-the-students-by-their-kth-score) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/ISudhan/Leetcode/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
