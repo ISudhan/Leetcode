@@ -15,19 +15,7 @@
  */
 class Solution {
     public int countNodes(TreeNode root) {
-        Stack<TreeNode> st = new Stack<>();
-        TreeNode curr = root;
-        int c = 0;
-        while(curr != null || !st.empty()){
-            while(curr != null){
-                c++;
-                st.push(curr);
-                curr = curr.left;
-            }
-            curr = st.peek();
-            st.pop();
-            curr = curr.right;
-        } 
-        return c;
+        if(root == null) return 0;
+        return countNodes(root.left)+1+countNodes(root.right);
     }
 }
