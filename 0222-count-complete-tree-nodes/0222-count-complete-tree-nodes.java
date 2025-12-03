@@ -16,11 +16,11 @@
 class Solution {
     public int countNodes(TreeNode root) {
         Stack<TreeNode> st = new Stack<>();
-        ArrayList<Integer> list = new ArrayList<>();
         TreeNode curr = root;
+        int c = 0;
         while(curr != null || !st.empty()){
             while(curr != null){
-                list.add(curr.val);
+                c++;
                 st.push(curr);
                 curr = curr.left;
             }
@@ -28,6 +28,6 @@ class Solution {
             st.pop();
             curr = curr.right;
         } 
-        return list.size();
+        return c;
     }
 }
