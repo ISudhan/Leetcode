@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0041-first-missing-positive](https://github.com/ISudhan/Leetcode/tree/master/0041-first-missing-positive) |
 | [0042-trapping-rain-water](https://github.com/ISudhan/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/ISudhan/Leetcode/tree/master/0053-maximum-subarray) |
+| [0066-plus-one](https://github.com/ISudhan/Leetcode/tree/master/0066-plus-one) |
 | [0074-search-a-2d-matrix](https://github.com/ISudhan/Leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/ISudhan/Leetcode/tree/master/0075-sort-colors) |
 | [0136-single-number](https://github.com/ISudhan/Leetcode/tree/master/0136-single-number) |
@@ -134,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0009-palindrome-number](https://github.com/ISudhan/Leetcode/tree/master/0009-palindrome-number) |
 | [0012-integer-to-roman](https://github.com/ISudhan/Leetcode/tree/master/0012-integer-to-roman) |
 | [0043-multiply-strings](https://github.com/ISudhan/Leetcode/tree/master/0043-multiply-strings) |
+| [0066-plus-one](https://github.com/ISudhan/Leetcode/tree/master/0066-plus-one) |
 | [0070-climbing-stairs](https://github.com/ISudhan/Leetcode/tree/master/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/ISudhan/Leetcode/tree/master/0189-rotate-array) |
 | [0231-power-of-two](https://github.com/ISudhan/Leetcode/tree/master/0231-power-of-two) |
