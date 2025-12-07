@@ -5,7 +5,6 @@
  */
 var addTwoPromises = async function (promise1, promise2) {
     let a;
-    let b;
     let c = promise1.then(function (n1) {
         a = n1;
         return promise2;
