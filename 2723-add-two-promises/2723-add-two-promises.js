@@ -8,10 +8,10 @@ var addTwoPromises = async function (promise1, promise2) {
     let c = promise1.then(function (n1) {
         a = n1;
         return promise2;
-    }).then(function(n2){
-        return a+n2;
+    }).then(function (n2) {
+        return a + n2;
     })
-    return new Promise(function(resolve,reject){resolve(c)});
+    return new Promise(function (resolve, reject) { resolve(c) });
 };
 
 /**
