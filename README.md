@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1319-unique-number-of-occurrences](https://github.com/ISudhan/Leetcode/tree/master/1319-unique-number-of-occurrences) |
 | [1329-minimum-cost-to-move-chips-to-the-same-position](https://github.com/ISudhan/Leetcode/tree/master/1329-minimum-cost-to-move-chips-to-the-same-position) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/ISudhan/Leetcode/tree/master/1421-find-numbers-with-even-number-of-digits) |
+| [1423-maximum-points-you-can-obtain-from-cards](https://github.com/ISudhan/Leetcode/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/ISudhan/Leetcode/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/ISudhan/Leetcode/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/ISudhan/Leetcode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
@@ -391,12 +392,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0219-contains-duplicate-ii](https://github.com/ISudhan/Leetcode/tree/master/0219-contains-duplicate-ii) |
 | [0594-longest-harmonious-subsequence](https://github.com/ISudhan/Leetcode/tree/master/0594-longest-harmonious-subsequence) |
 | [0643-maximum-average-subarray-i](https://github.com/ISudhan/Leetcode/tree/master/0643-maximum-average-subarray-i) |
+| [1423-maximum-points-you-can-obtain-from-cards](https://github.com/ISudhan/Leetcode/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1755-defuse-the-bomb](https://github.com/ISudhan/Leetcode/tree/master/1755-defuse-the-bomb) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/ISudhan/Leetcode/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 ## Prefix Sum
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/ISudhan/Leetcode/tree/master/0209-minimum-size-subarray-sum) |
+| [1423-maximum-points-you-can-obtain-from-cards](https://github.com/ISudhan/Leetcode/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1603-running-sum-of-1d-array](https://github.com/ISudhan/Leetcode/tree/master/1603-running-sum-of-1d-array) |
 | [1693-sum-of-all-odd-length-subarrays](https://github.com/ISudhan/Leetcode/tree/master/1693-sum-of-all-odd-length-subarrays) |
 | [1833-find-the-highest-altitude](https://github.com/ISudhan/Leetcode/tree/master/1833-find-the-highest-altitude) |
