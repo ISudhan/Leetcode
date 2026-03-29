@@ -1,13 +1,23 @@
 class Solution {
-
     public long interchangeableRectangles(int[][] rectangles) {
-        HashMap<Double, Integer> map = new HashMap<>();
-        long count = 0;
+        long ans = 0;
+        HashMap<Double,Long> map = new HashMap<>();
+        double[] arr = new double[rectangles.length];
         for(int i = 0;i<rectangles.length;i++){
-            double ratio = (double)rectangles[i][0]/(double)rectangles[i][1];
-            map.put(ratio,map.getOrDefault(ratio,0)+1);
-            count += map.get(ratio) - 1;
+            arr[i] = (double)rectangles[i][0]/(double)rectangles[i][1];
+            System.out.println(arr[i]);
         }
-        return count;
+        for(double i : arr){
+            if(map.containsKey(i)){
+                map.put(i,map.get(i)+1);
+                long n = map.get(i);
+                long sum = (n*(n+1))/2;
+                long sum_sub = ((n-1)*n)/2;
+                ans += sum - sum_sub;
+                System.out.print(i);
+            }
+            else map.put(i,(long)0);
+        }
+        return ans;
     }
 }
