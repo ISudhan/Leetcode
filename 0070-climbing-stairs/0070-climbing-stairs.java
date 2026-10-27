@@ -1,18 +1,14 @@
 class Solution {
+    public int memo(int n,int[] dp){
+        if(n<=2){
+            return dp[n]=n;
+        }
+        if(dp[n] != 0) return dp[n];
+        return dp[n]=memo(n-1,dp)+memo(n-2,dp);
+
+    }
     public int climbStairs(int n) {
-        int t0 = 1;
-        int t1 = 2;
-        if(n==1){
-            return 1;
-        }
-        if(n == 2){
-            return 2;
-        }
-        for(int i = 0;i<n-2;i++){
-            int temp = t0;
-            t0 = t1;
-            t1 = temp+t1;
-        }
-        return t1;
+        int a[] = new int[n+1];
+        return memo(n,a);
     }
 }
