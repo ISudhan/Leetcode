@@ -96,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3515-find-if-digit-game-can-be-won](https://github.com/ISudhan/Leetcode/tree/master/3515-find-if-digit-game-can-be-won) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/ISudhan/Leetcode/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3778-transform-array-by-parity](https://github.com/ISudhan/Leetcode/tree/master/3778-transform-array-by-parity) |
+| [4041-climbing-stairs-ii](https://github.com/ISudhan/Leetcode/tree/master/4041-climbing-stairs-ii) |
 ## Hash Table
 |  |
 | ------- |
@@ -340,6 +341,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/ISudhan/Leetcode/tree/master/0053-maximum-subarray) |
 | [0070-climbing-stairs](https://github.com/ISudhan/Leetcode/tree/master/0070-climbing-stairs) |
 | [1013-fibonacci-number](https://github.com/ISudhan/Leetcode/tree/master/1013-fibonacci-number) |
+| [4041-climbing-stairs-ii](https://github.com/ISudhan/Leetcode/tree/master/4041-climbing-stairs-ii) |
 ## String
 |  |
 | ------- |
