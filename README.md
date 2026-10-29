@@ -155,6 +155,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0445-add-two-numbers-ii](https://github.com/ISudhan/Leetcode/tree/master/0445-add-two-numbers-ii) |
 | [1013-fibonacci-number](https://github.com/ISudhan/Leetcode/tree/master/1013-fibonacci-number) |
 | [1195-distribute-candies-to-people](https://github.com/ISudhan/Leetcode/tree/master/1195-distribute-candies-to-people) |
+| [1236-n-th-tribonacci-number](https://github.com/ISudhan/Leetcode/tree/master/1236-n-th-tribonacci-number) |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/ISudhan/Leetcode/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
 | [1329-minimum-cost-to-move-chips-to-the-same-position](https://github.com/ISudhan/Leetcode/tree/master/1329-minimum-cost-to-move-chips-to-the-same-position) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/ISudhan/Leetcode/tree/master/1421-find-numbers-with-even-number-of-digits) |
@@ -343,6 +344,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/ISudhan/Leetcode/tree/master/0070-climbing-stairs) |
 | [0747-min-cost-climbing-stairs](https://github.com/ISudhan/Leetcode/tree/master/0747-min-cost-climbing-stairs) |
 | [1013-fibonacci-number](https://github.com/ISudhan/Leetcode/tree/master/1013-fibonacci-number) |
+| [1236-n-th-tribonacci-number](https://github.com/ISudhan/Leetcode/tree/master/1236-n-th-tribonacci-number) |
 | [4041-climbing-stairs-ii](https://github.com/ISudhan/Leetcode/tree/master/4041-climbing-stairs-ii) |
 ## String
 |  |
@@ -438,6 +440,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0070-climbing-stairs](https://github.com/ISudhan/Leetcode/tree/master/0070-climbing-stairs) |
 | [1013-fibonacci-number](https://github.com/ISudhan/Leetcode/tree/master/1013-fibonacci-number) |
+| [1236-n-th-tribonacci-number](https://github.com/ISudhan/Leetcode/tree/master/1236-n-th-tribonacci-number) |
 ## Matrix
 |  |
 | ------- |
